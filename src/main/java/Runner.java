@@ -9,6 +9,8 @@ public class Runner {
 
             excelFileReader.readFile(filePath);
 
+            excelFileReader.printInfo();
+
     }
 
 }
